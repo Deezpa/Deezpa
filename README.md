@@ -64,28 +64,5 @@ All datasets are **FAIR-aligned** and linked with GitHub repos for reproducibili
 
 ---
 
-## 📫 Connect with Me  
-
-### 🔹 Research Data & Open Science  
-- 🌐 **GitHub Profile** → [github.com/Deezpa](https://github.com/Deezpa)  
-- 📊 **DeepaShukla Dataverse – Digital Credit Scoring** → [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/D3CR)  
-
-### 🔹 Academic Profiles  
-- 📖 **Google Scholar** → [Profile](https://scholar.google.com/citations?hl=en&user=621gkOoAAAAJ&view_op=list_works&gmla=AH8HC4y97BBX9GXGwuoLWKOzV9MEMPn9rXCw6pk27pyebs84Vs2KuF3k26yUHC5oJtpOnDmTlrOSW8pUKneT84f9)  
-- 🔬 **ResearchGate** → [Profile](https://www.researchgate.net/profile/Deepa-Shukla-3)
-- 📚 **Semantic Scholar** → [ID 2338071781](https://www.semanticscholar.org/author/2338071781)  
-
-### 🔹 Researcher Identifiers  
-- 🆔 **ResearcherID** [Web of Science](https://www.webofscience.com/wos/author/record/LOS-4076-2024)  
-- 🔎 **Scopus Author ID** → [59530018100](https://www.scopus.com/authid/detail.uri?authorId=59530018100)  
-- 👩‍💻 **SciProfiles** → [3305182](https://sciprofiles.com/profile/3305182)  
-- 🟢 **ORCID** → [0000-0003-3016-1633](https://orcid.org/0000-0003-3016-1633)  
-
-### 🔹 Professional Networks  
-- 💼 **LinkedIn** → [Dr. Deepa Shukla](https://www.linkedin.com/in/dr-deepa-shukla-93523819/)  
-- 🏛 **SheRNI Profile (DST)** → [Profile](https://sherni.inflibnet.ac.in/profile/643794)
-- 🎓 **VIDWAN (UGC-INFLIBNET)** → [Profile](https://vidwan.inflibnet.ac.in/profile/643794) 
-
-
 <!--
 **Deezpa/Deezpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
